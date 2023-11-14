@@ -1,0 +1,72 @@
+[
+    {
+        "email": "user1@email.com",
+        "password": "password1",
+        "role": "Admin",
+        "phoneNumber": "1234567890",
+        "address": "Alamat 1"
+    },
+    {
+        "email": "user2@email.com",
+        "password": "password2",
+        "role": "Admin",
+        "phoneNumber": "2345678901",
+        "address": "Alamat 2"
+    },
+    {
+        "email": "user3@email.com",
+        "password": "password3",
+        "role": "Admin",
+        "phoneNumber": "3456789012",
+        "address": "Alamat 3"
+    },
+    {
+        "email": "user4@email.com",
+        "password": "password4",
+        "role": "Admin",
+        "phoneNumber": "4567890123",
+        "address": "Alamat 4"
+    },
+    {
+        "email": "user5@email.com",
+        "password": "password5",
+        "role": "Admin",
+        "phoneNumber": "5678901234",
+        "address": "Alamat 5"
+    },
+    {
+        "email": "user6@email.com",
+        "password": "password6",
+        "role": "Admin",
+        "phoneNumber": "6789012345",
+        "address": "Alamat 6"
+    },
+    {
+        "email": "user7@email.com",
+        "password": "password7",
+        "role": "Admin",
+        "phoneNumber": "7890123456",
+        "address": "Alamat 7"
+    },
+    {
+        "email": "user8@email.com",
+        "password": "password8",
+        "role": "Admin",
+        "phoneNumber": "8901234567",
+        "address": "Alamat 8"
+    },
+    {
+        "email": "user9@email.com",
+        "password": "password9",
+        "role": "Admin",
+        "phoneNumber": "9012345678",
+        "address": "Alamat 9"
+    },
+    {
+        "email": "user10@email.com",
+        "password": "password10",
+        "role": "Admin",
+        "phoneNumber": "0123456789",
+        "address": "Alamat 10"
+    }
+]

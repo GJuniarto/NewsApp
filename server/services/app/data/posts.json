@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Hot News Post 1",
+        "slug": "hot-news-post-1",
+        "content": "This is the content of Hot News Post 1.",
+        "imgUrl": "http://example.com/image1.jpg",
+        "categoryId": "3"
+    },
+    {
+        "title": "Hot News Post 2",
+        "slug": "hot-news-post-2",
+        "content": "This is the content of Hot News Post 2.",
+        "imgUrl": "http://example.com/image2.jpg",
+        "categoryId": "7"
+    },
+    {
+        "title": "Hot News Post 3",
+        "slug": "hot-news-post-3",
+        "content": "This is the content of Hot News Post 3.",
+        "imgUrl": "http://example.com/image3.jpg",
+        "categoryId": "2"
+    },
+    {
+        "title": "Hot News Post 4",
+        "slug": "hot-news-post-4",
+        "content": "This is the content of Hot News Post 4.",
+        "imgUrl": "http://example.com/image4.jpg",
+        "categoryId": "9"
+    },
+    {
+        "title": "Hot News Post 5",
+        "slug": "hot-news-post-5",
+        "content": "This is the content of Hot News Post 5.",
+        "imgUrl": "http://example.com/image5.jpg",
+        "categoryId": "6"
+    },
+    {
+        "title": "Hot News Post 6",
+        "slug": "hot-news-post-6",
+        "content": "This is the content of Hot News Post 6.",
+        "imgUrl": "http://example.com/image6.jpg",
+        "categoryId": "1"
+    },
+    {
+        "title": "Hot News Post 7",
+        "slug": "hot-news-post-7",
+        "content": "This is the content of Hot News Post 7.",
+        "imgUrl": "http://example.com/image7.jpg",
+        "categoryId": "5"
+    },
+    {
+        "title": "Hot News Post 8",
+        "slug": "hot-news-post-8",
+        "content": "This is the content of Hot News Post 8.",
+        "imgUrl": "http://example.com/image8.jpg",
+        "categoryId": "4"
+    },
+    {
+        "title": "Hot News Post 9",
+        "slug": "hot-news-post-9",
+        "content": "This is the content of Hot News Post 9.",
+        "imgUrl": "http://example.com/image9.jpg",
+        "categoryId": "8"
+    },
+    {
+        "title": "Hot News Post 10",
+        "slug": "hot-news-post-10",
+        "content": "This is the content of Hot News Post 10.",
+        "imgUrl": "http://example.com/image10.jpg",
+        "categoryId": "10"
+    }
+]

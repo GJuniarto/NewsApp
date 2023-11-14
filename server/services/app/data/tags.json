@@ -1,0 +1,26 @@
+[
+    {
+        "name": "sport",
+        "postId": 4
+    },
+    {
+        "name": "economy",
+        "postId": 4
+    },
+    {
+        "name": "olympic",
+        "postId": 2
+    },
+    {
+        "name": "sport",
+        "postId": 2
+    },
+    {
+        "name": "politic",
+        "postId": 1
+    },
+    {
+        "name": "cool-stuff",
+        "postId": 1
+    }
+]

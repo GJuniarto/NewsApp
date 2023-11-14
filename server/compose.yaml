@@ -1,0 +1,21 @@
+services:
+    orchestrator:
+        build: ./orchestra
+        ports:
+            - "80:80"
+        environment:
+            - APP_URI=http://app:4002
+            - USER_URI=http://user:4001
+            - DATABASE_URL=postgresql://postgres:bnhlz3VENNpBpCBJ@db.rbdwjbhwofmywroycdri.supabase.co:5432/postgres
+            - REDIS_URL=redis://default:Lvuk9PuAxHSgHHvlgPA5GEqVGutBBMQh@redis-13653.c91.us-east-1-3.ec2.cloud.redislabs.com:13653
+    app:
+        build: ./services/app
+        ports:
+            - "4002:4002"
+        environment:
+            - DATABASE_URL=postgresql://postgres:bnhlz3VENNpBpCBJ@db.rbdwjbhwofmywroycdri.supabase.co:5432/postgres
+            - NODE_ENV=production
+    user:
+        build: ./services/users
+        ports:
+            - "4001:4001"
